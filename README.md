@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/otakubinge/Makima-Robot"><img src="https://telegra.ph/file/c05d22bcb94fb92b354db.jpg"></a></p>
+<p align="center"><a href="https://github.com/otakubinge/Makima-Robot"><img src="https://te.legra.ph/file/2028173f7eb48db2699ae.jpg"></a></p>
 
 #
 
