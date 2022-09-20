@@ -1,5 +1,3 @@
-
-
 # Makima
 ![Makima](https://telegra.ph/file/073b97d2685d370a364da.jpg)
 # Makima
@@ -34,10 +32,10 @@ Can be found on telegram as [Makima](https://t.me/Makima_UltraProxbot).
 • [Abhijeet](https://t.me/Its_yoshikage_z)
 
 <details>
-<summary><b>🔵 sᴜᴘᴘᴏʀᴛ</b></summary>
+<summary><b>Big thanks to..</b></summary>
 <br>
 
-# 🔹 Support 🔹
-<a href="https://t.me/kakashi_bots_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/+_54ymqNqyFwzYzNl"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/kakashi_bots_updates"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+# For modules, inspiration and base repo
+<a href="https://t.me/FallenXRobot"><img src="https://img.shields.io/badge/Fallen%20Robot-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Makima_UltraXBot"><img src="https://img.shields.io/badge/Inspiration%20Makima-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Cutiepii_Robot"><img src="https://img.shields.io/badge/Awesome%20Modules-blue.svg?logo=telegram"></a>
