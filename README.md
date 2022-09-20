@@ -13,18 +13,18 @@ Can be found on telegram as [Makima](https://t.me/Makima_UltraProxbot).
 <p align="center">Makima is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 
-### Easiest Way To Deploy On Heroku 
+### ♦️Easiest Way To Deploy On Heroku 
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/otakubinge/Makima-Robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-### Support
+### ♦️Support
 <p>
 <a href="https://t.me/kakashi_bots_support"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/kakashi_bots_updates"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
-## Credits -
+## ♦️Credits -
 • [𝓚𝒶кคѕⒽᎥ ђ𝔞𝓉ᗩЌ𝒆 ⸙『𝕭𝖎𝖓𝖌𝖊』 ᭄™](https://github.com/ssid143)
 
 • [Sumit](https://github.com/Sumit9969)
@@ -32,7 +32,7 @@ Can be found on telegram as [Makima](https://t.me/Makima_UltraProxbot).
 • [Abhijeet](https://t.me/Its_yoshikage_z)
 
 <details>
-<summary><b>Big thanks to..</b></summary>
+<summary><b>♦️Big thanks to....</b></summary>
 <br>
 
 # For modules, inspiration and base repo
