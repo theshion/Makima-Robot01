@@ -165,6 +165,6 @@ __mod_name__ = "AnimeQuotes🖍️"
 __help__ = """
 *Anime Quotes & Quotes*
 
- ❍ `/animequotes` - gives a random anime quote
- ❍ `/quote` - gives a random quote
+ ❂ /animequotes` - gives a random anime quote
+ ❂ /quote` - gives a random quote
 """
