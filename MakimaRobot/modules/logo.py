@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import glob
 import io
 import os
@@ -288,10 +293,10 @@ async def lego(event):
         await event.reply(f"ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @{SUPPORT_CHAT}")
 
 
-__mod_name__ = "Lᴏɢᴏ 💞​"
+__mod_name__ = "Logo💞​"
 
 __help__ = """
 I can create some beautiful and attractive logo for your profile pics.
 
-❍ /logo (Text) *:* Create a logo of your given text with random view.
+❂ /logo (Text) *:* Create a logo of your given text with random view.
 """
