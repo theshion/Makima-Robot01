@@ -1,3 +1,7 @@
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
 import csv
 import json
 import os
@@ -2355,7 +2359,7 @@ def fed_user_help(update: Update, context: CallbackContext):
     )
 
 
-__mod_name__ = "Federations"
+__mod_name__ = "Federations🤝"
 
 __help__ = """
 *ғᴇᴅᴇʀᴀᴛɪᴏɴ*
