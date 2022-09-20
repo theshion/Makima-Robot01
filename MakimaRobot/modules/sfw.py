@@ -526,56 +526,56 @@ __handlers__ = [
 ]
 
 
-__mod_name__ = "SFW"
+__mod_name__ = "SFW😸"
 __help__ = """
 *Commands* *:*  
-   ➢ `/neko`*:*Sends Random SFW Neko source Images.
-   ➢ `/ngif`*:*Sends Random Neko GIFs.
-   ➢ `/tickle`*:*Sends Random Tickle GIFs.
-   ➢ `/feed`*:*Sends Random Feeding GIFs.
-   ➢ `/gasm`*:*Sends Random Orgasm Stickers.
-   ➢ `/avatar`*:*Sends Random Avatar Stickers.
-   ➢ `/waifus`*:* Sends Random Waifu Stickers.
-   ➢ `/waifu`*:* Sends Random Waifu image.
-   ➢ `/swaifu`*:* Sends Random Waifu image.
-   ➢ `/kiss`*:* Sends Random Kissing GIFs.
-   ➢ `/cuddle`*:* Sends Random Cuddle GIFs.
-   ➢ `/foxgirl`*:* Sends Random FoxGirl source Images.
-   ➢ `/smug`*:* Sends Random Smug GIFs.
-   ➢ `/gecg`*:* IDK
-   ➢ `/slap`*:* Sends Random Slap GIFs.
+   ❂ `/neko`*:*Sends Random SFW Neko source Images.
+   ❂ `/ngif`*:*Sends Random Neko GIFs.
+   ❂ `/tickle`*:*Sends Random Tickle GIFs.
+   ❂ `/feed`*:*Sends Random Feeding GIFs.
+   ❂ `/gasm`*:*Sends Random Orgasm Stickers.
+   ❂ `/avatar`*:*Sends Random Avatar Stickers.
+   ❂ `/waifus`*:* Sends Random Waifu Stickers.
+   ❂ `/waifu`*:* Sends Random Waifu image.
+   ❂ `/swaifu`*:* Sends Random Waifu image.
+   ❂ `/kiss`*:* Sends Random Kissing GIFs.
+   ❂ `/cuddle`*:* Sends Random Cuddle GIFs.
+   ❂ `/foxgirl`*:* Sends Random FoxGirl source Images.
+   ❂ `/smug`*:* Sends Random Smug GIFs.
+   ❂ `/gecg`*:* IDK
+   ❂ `/slap`*:* Sends Random Slap GIFs.
 
 *Some more SFW commands :*
-   ➢ `/shinobu`
-   ➢ `/megumin`
-   ➢ `/bully`
-   ➢ `/cry`
-   ➢ `/awoo`
-   ➢ `/lick`
-   ➢ `/pat`
-   ➢ `/bonk`
-   ➢ `/yeet`
-   ➢ `/blush`
-   ➢ `/smile`
-   ➢ `/wave`
-   ➢ `/highfive`
-   ➢ `/handhold`
-   ➢ `/nom`
-   ➢ `/bite`
-   ➢ `/glomp`
-   ➢ `/slapgif`
-   ➢ `/kill`
-   ➢ `/kick`
-   ➢ `/happy`
-   ➢ `/wink`
-   ➢ `/poke`
-   ➢ `/dance`
-   ➢ `/cringe`
-   ➢ `/pout`
-   ➢ `/bored`
-   ➢ `/nekos`
-   ➢ `/stare`
-   ➢ `/think`
-   ➢ `/thumbsup`
-   ➢ `/source`
+   ❂ `/shinobu`
+   ❂ `/megumin`
+   ❂ `/bully`
+   ❂ `/cry`
+   ❂ `/awoo`
+   ❂ `/lick`
+   ❂ `/pat`
+   ❂ `/bonk`
+   ❂ `/yeet`
+   ❂ `/blush`
+   ❂ `/smile`
+   ❂ `/wave`
+   ❂ `/highfive`
+   ❂ `/handhold`
+   ❂ `/nom`
+   ❂ `/bite`
+   ❂ `/glomp`
+   ❂ `/slapgif`
+   ❂ `/kill`
+   ❂ `/kick`
+   ❂ `/happy`
+   ❂ `/wink`
+   ❂ `/poke`
+   ❂ `/dance`
+   ❂ `/cringe`
+   ❂ `/pout`
+   ❂ `/bored`
+   ❂ `/nekos`
+   ❂ `/stare`
+   ❂ `/think`
+   ❂ `/thumbsup`
+   ❂ `/source`
 """
