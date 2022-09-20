@@ -1,3 +1,8 @@
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 from faker import Faker
 from faker.providers import internet
 from pyrogram import filters
@@ -33,10 +38,10 @@ async def picgen(_, message):
     await message.reply_photo(photo=img, caption=text)
 
 
-__mod_name__ = "Fake info"
+__mod_name__ = "Fake-info💁"
 
 __help__ = """
 *Commands:*
-- `/fakegen` : Generates Fake Information
-- `/picgen` : Generate a Fake pic
+❂ /fakegen` : Generates Fake Information
+❂ /picgen` : Generate a Fake pic
 """
