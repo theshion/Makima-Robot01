@@ -1,3 +1,8 @@
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import json
 
 import requests
@@ -76,10 +81,10 @@ async def _(event):
 
 
 __help__ = """
- ❍ /define <text>*:* Type the word or expression you want to search\nFor example /define kill
- ❍ /spell*:* while replying to a message, will reply with a grammar corrected version
- ❍ /synonyms <word>*:* Find the synonyms of a word
- ❍ /antonyms <word>*:* Find the antonyms of a word
+ ❂ /define <text>*:* Type the word or expression you want to search\nFor example /define kill
+ ❂ /spell*:* while replying to a message, will reply with a grammar corrected version
+ ❂ /synonyms <word>*:* Find the synonyms of a word
+ ❂ /antonyms <word>*:* Find the antonyms of a word
 """
 
-__mod_name__ = "Eɴɢʟɪsʜ"
+__mod_name__ = "English🇺🇲"
