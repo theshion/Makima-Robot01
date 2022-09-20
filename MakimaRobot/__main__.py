@@ -96,16 +96,16 @@ buttons2 = [
     [
         InlineKeyboardButton(
             text="Start me🤖",
-            url=f"https://t.me/Makima_UltraProxbot",
+            url=f"https://t.me/{BOT_USERNAME}",
         ),
         InlineKeyboardButton(
             text="Commands and help💡",
-            url=f"http://t.me/Makima_UltraProxbot?start=help",
+            url=f"http://t.me/{BOT_USERNAME}?start=help",
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Bot support🚑", url=f"https://t.me/kakashi_bots_support"
+            text="Bot support🚑", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
 ]
@@ -126,7 +126,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="Vc music 🎧", url=f"https://t.me/Makima_UltraProxbot?start=vhelp"
+            text="Vc music 🎧", url=f"https://t.me/{BOT_USERNAME}?start=vhelp"
         ),
         InlineKeyboardButton(text="🌐𝙊𝙪𝙧 𝙉𝙚𝙩𝙬𝙤𝙧𝙠", url=f"https://t.me/Otaku_Binge"),
     ],
