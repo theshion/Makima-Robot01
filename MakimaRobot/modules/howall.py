@@ -1,3 +1,9 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
+#credits goes to :- @Cutiepii_Robot
 import random
 
 from telethon import Button, events
@@ -74,14 +80,14 @@ async def cute(e):
 
 
 __help__ = """
-➛ /horny - Check Your Current Hornyess 
-➛ /gay - Check Your Current Gayness 
-➛ /lezbian - Check Your Current Lezbianess 
-➛ /boobs - Check Your Current Boobs Size 
-➛ /cock - Check Your Current Cock Size 
-➛ /cute - Check Your Current Cuteness 
+❂ /horny - Check Your Current Hornyess 
+❂ /gay - Check Your Current Gayness 
+❂ /lezbian - Check Your Current Lezbianess 
+❂ /boobs - Check Your Current Boobs Size 
+❂ /cock - Check Your Current Cock Size 
+❂ /cute - Check Your Current Cuteness 
 
 Note :- This Module Inspired By @HowAllBot We Just Make It For Fun Don't Take It Serious
 """
 
-__mod_name__ = "How-All"
+__mod_name__ = "How-All😻"
