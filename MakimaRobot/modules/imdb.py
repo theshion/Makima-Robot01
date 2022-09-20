@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import requests
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
@@ -33,15 +38,13 @@ async def imdb(client, message):
 
 🏷️Title = {title}
 
-♦️Description = {description}
-
 📍Rating = {rating}
-
 🔎Release-Date = {releasedate}
-
 ♦️Popularity = {popularity}
 ♦️Runtime = {runtime}
 ♦️Status = {status}
+
+♦️Description = {description}
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -57,7 +60,7 @@ async def imdb(client, message):
 
 
 __help__ = """
- ❍ /imdb <Movie name>*:* Get full info about a movie from [imdb.com](https://m.imdb.com)
+ ❂ /imdb <Movie name>*:* Get full info about a movie from [imdb.com](https://m.imdb.com)
 """
 
 __mod_name__ = "Iᴍᴅʙ♐"
