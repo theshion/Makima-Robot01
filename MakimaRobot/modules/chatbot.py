@@ -1,3 +1,8 @@
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import html
 import json
 import re
@@ -158,11 +163,11 @@ def list_all_chats(update: Update, context: CallbackContext):
 
 __help__ = """
 *Admins only Commands*:
-  »  /chatbot *:* Shows chatbot control panel
+  ❂  /chatbot *:* Shows chatbot control panel
 
 """
 
-__mod_name__ = "Cʜᴀᴛʙᴏᴛ💬"
+__mod_name__ = "Chatbot💬"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", kuki)
