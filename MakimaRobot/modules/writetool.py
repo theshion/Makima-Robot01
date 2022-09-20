@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import requests
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
@@ -39,11 +44,11 @@ Successfully Written Text 🧧
         API = f"https://api.sdbots.tk/write?text={lol}"
         req = requests.get(API).url
         caption = f"""
-Successfully Written Text 💘
+Successfully Written Text 🧧
 
-✨ **Written By :** [{BOT_NAME}](https://t.me/{BOT_USERNAME})
-🥀 **Requested by :** {message.from_user.mention}
-❄ **Link :** `{req}`
+♦️ **Written By :** [{BOT_NAME}](https://t.me/{BOT_USERNAME})
+♦️ **Requested by :** {message.from_user.mention}
+♦️ **Link :** `{req}`
 """
         await m.delete()
         await Makima.send_photo(
@@ -56,11 +61,11 @@ Successfully Written Text 💘
         )
 
 
-__mod_name__ = "WʀɪᴛᴇTᴏᴏʟ"
+__mod_name__ = "WʀɪᴛᴇTᴏᴏʟ📝"
 
 __help__ = """
 
  Writes the given text on white page with a pen 🖊
 
-❍ /write <text> *:* Writes the given text.
+❂ /write <text> *:* Writes the given text.
  """
