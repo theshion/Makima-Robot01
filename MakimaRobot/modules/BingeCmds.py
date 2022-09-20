@@ -34,3 +34,4 @@ __help__ = """
 ❂ /vsong or /video
 ❂ /watchorder <anime name>
 ❂ /whois
+"""
