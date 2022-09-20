@@ -10,9 +10,9 @@ from MakimaRobot import pbot as app
 from MakimaRobot.utils.errors import capture_err
 
 __help__ = """
-» /webss *:* Sends the screenshot of the given url.
+❂ /webss *:* Sends the screenshot of the given url.
 """
-__mod_name__ = "Wᴇʙsʜᴏᴛ​​"
+__mod_name__ = "Wᴇʙsʜᴏᴛ​​🌐"
 
 
 @app.on_message(filters.command("webss"))
