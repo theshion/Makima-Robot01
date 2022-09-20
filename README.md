@@ -1,6 +1,6 @@
+# Makima 
 <p align="center"><a href="https://github.com/otakubinge/Makima-Robot"><img src="https://te.legra.ph/file/2028173f7eb48db2699ae.jpg"></a></p>
 
-#
 
 <p align="center">
 <a href="https://github.com/otakubinge/Makima-Robot/network/members"><img src="https://img.shields.io/github/forks/otakubinge/Makima-Robot?style=social" />
