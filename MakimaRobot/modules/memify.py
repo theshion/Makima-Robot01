@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import os
 import textwrap
 
@@ -6,7 +11,7 @@ from PIL import Image, ImageDraw, ImageFont
 from MakimaRobot import telethn as bot
 from MakimaRobot.events import register
 
-Credit = "AnonymousBoy1025"
+Credit = "otakubinge"
 
 
 @register(pattern="^/mmf ?(.*)")
@@ -34,7 +39,7 @@ async def handler(event):
 
     msg = await event.reply("```Memifying this image! ✊🏻 ```")
 
-    if "AnonymousBoy1025" in Credit:
+    if "otakubinge" in Credit:
         pass
 
     else:
