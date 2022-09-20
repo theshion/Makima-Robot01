@@ -28,8 +28,6 @@ Can be found on telegram as [Makima](https://t.me/Makima_UltraProxbot).
 ## Credits -
 • [𝓚𝒶кคѕⒽᎥ ђ𝔞𝓉ᗩЌ𝒆 ⸙『𝕭𝖎𝖓𝖌𝖊』 ᭄™](https://github.com/ssid143)
 
-• [FallenRobot](https://github.com/kennedy-ex/EmikoRobot)
-
 • [Sumit](https://github.com/Sumit9969)
 
 • [Abhijeet](https://t.me/Its_yoshikage_z)
