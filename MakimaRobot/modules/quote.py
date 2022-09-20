@@ -156,10 +156,10 @@ async def quotly_func(client, message: Message):
         print(e)
 
 
-__mod_name__ = "Quote"
+__mod_name__ = "Quote✨"
 
 __help__ = """   
 
-× /q - create quote
+❂ /q - create quote
 
 """
