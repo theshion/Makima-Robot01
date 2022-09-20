@@ -1,4 +1,8 @@
-# sup
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import math
 import os
 import urllib.request as urllib
@@ -456,13 +460,13 @@ def makepack_internal(
 
 
 __help__ = """
- ❍ /stickerid*:* reply to a sticker to me to tell you its file ID.
- ❍ /getsticker*:* reply to a sticker to me to upload its raw PNG file.
- ❍ /kang*:* reply to a sticker to add it to your pack.
- ❍ /stickers*:* Find stickers for given term on combot sticker catalogue
+ ❂ /stickerid*:* reply to a sticker to me to tell you its file ID.
+ ❂ /getsticker*:* reply to a sticker to me to upload its raw PNG file.
+ ❂ /kang*:* reply to a sticker to add it to your pack.
+ ❂ /stickers*:* Find stickers for given term on combot sticker catalogue
 """
 
-__mod_name__ = "Sᴛɪᴄᴋᴇʀ"
+__mod_name__ = "Stickers💫"
 STICKERID_HANDLER = DisableAbleCommandHandler("stickerid", stickerid)
 GETSTICKER_HANDLER = DisableAbleCommandHandler("getsticker", getsticker)
 KANG_HANDLER = DisableAbleCommandHandler("kang", kang, admin_ok=True)
