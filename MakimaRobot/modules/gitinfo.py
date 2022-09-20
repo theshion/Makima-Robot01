@@ -1,4 +1,8 @@
-# © @AnonymousBoy1025
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import aiohttp
 from pyrogram import filters
 
@@ -10,7 +14,7 @@ __mod_name__ = "Gɪᴛʜᴜʙ😸"
 __help__ = """
 I will give information about github profile 
 
- ❍ /github <username>*:* Get information about a GitHub user.
+ ❂ /github <username>*:* Get information about a GitHub user.
 """
 
 
