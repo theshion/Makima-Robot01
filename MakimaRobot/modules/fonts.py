@@ -1,3 +1,8 @@
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
@@ -195,7 +200,7 @@ async def style(c, m):
 
 __help__ = """
 
- ❍ font <text> *:* ᴄᴏɴᴠᴇʀᴛs sɪᴍᴩʟᴇ ᴛᴇxᴛ ᴛᴏ ʙᴇᴀᴜᴛɪғᴜʟ ᴛᴇxᴛ ʙʏ ᴄʜᴀɴɢɪɴɢ ɪᴛ's ғᴏɴᴛ.
+ ❂ font <text> *:* ᴄᴏɴᴠᴇʀᴛs sɪᴍᴩʟᴇ ᴛᴇxᴛ ᴛᴏ ʙᴇᴀᴜᴛɪғᴜʟ ᴛᴇxᴛ ʙʏ ᴄʜᴀɴɢɪɴɢ ɪᴛ's ғᴏɴᴛ.
  """
 
-__mod_name__ = "Fᴏɴᴛ Eᴅɪᴛᴏʀ"
+__mod_name__ = "Font-Editor💫"
