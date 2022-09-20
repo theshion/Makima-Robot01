@@ -1,3 +1,8 @@
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import random
 from datetime import datetime
 
@@ -75,7 +80,7 @@ __New couple of the day may be chosen at 12AM {tomorrow}__"""
 __help__ = """
 Choose couples in your chat
 
- ❍ /couple *:* Choose 2 users and send their name as couples in your chat.
+ ❂ /couple *:* Choose 2 users and send their name as couples in your chat.
 """
 
-__mod_name__ = "Cᴏᴜᴘʟᴇ 💞​"
+__mod_name__ = "Couples💞​"
