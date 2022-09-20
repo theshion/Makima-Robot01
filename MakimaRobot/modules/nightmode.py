@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from telethon import functions, types
 from telethon.tl.types import ChatBannedRights
@@ -154,10 +159,10 @@ scheduler.start()
 __help__ = """
 *Admins Only*
 
- ❍ /nightmode*:* Adds Group to NightMode Chats
- ❍ /rmnight*:* Removes Group From NightMode Chats
+ ❂ /nightmode*:* Adds Group to NightMode Chats
+ ❂ /rmnight*:* Removes Group From NightMode Chats
 
 *Note:* Night Mode chats get Automatically closed at 12 am(IST) and Automatically openned at 6 am(IST) to Prevent Night Spams.
 """
 
-__mod_name__ = "Nɪɢʜᴛ​"
+__mod_name__ = "Night-mode🌃"
