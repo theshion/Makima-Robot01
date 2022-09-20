@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import wikipedia
 from telegram import ParseMode, Update
 from telegram.ext import CallbackContext, run_async
@@ -57,6 +62,6 @@ WIKI_HANDLER = DisableAbleCommandHandler("wiki", wiki)
 dispatcher.add_handler(WIKI_HANDLER)
 
 __help__ = """
-» /wiki (text) *:* Searchs about the given text on wikipedia.
+❂ /wiki (text) *:* Searchs about the given text on wikipedia.
 """
 __mod_name__ = "Wɪᴋɪ🌍​"
