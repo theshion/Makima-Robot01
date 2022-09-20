@@ -17,19 +17,16 @@ if about_name == "makima info":
     def ABOUT(update: Update, context: CallbackContext):
 
         TEXT = f"""
-MAKIMA IS AN ANIME CHARACTER FROM CHAINSAW MAN SHE IS A DEVIL HUNTER,
-WE MAKE THIS MAKIMA BECAUSE ALREADY A MAKIMA ON TELEGRAM IS REALLY POPULAR AND 
-SHE IS ONE OF THE BEST TELEGRAM MANAGEMENT THOUGH HER REPO IS NOT PUBLIC SO ANYONE CAN'T 
-DEPLOY HER,
-SO WE THOUGHT LET'S MAKE OWN MAKIMA AND WE ARE STILL WORKING ON IT,AFTER WE FINISH OUR WORK 
-WE WILL KEEP THIS REPO PRIVATE FOR SOMETIME
-BUT YOU CAN GET THE REPO NOW BY CONTACTING [𝓚𝒶кคѕⒽᎥ ђ𝔞𝓉ᗩЌ𝒆 ⸙『𝕭𝖎𝖓𝖌𝖊』 ᭄™](https://t.me/SIXTH_H0KAGE)
+❂ Mᴀᴋɪᴍᴀ ɪs ᴀɴ ᴀɴɪᴍᴇ ᴄʜᴀʀᴀᴄᴛᴇʀ ғʀᴏᴍ ᴄʜᴀɪɴsᴀᴡ ᴍᴀɴ ᴀɴɪᴍᴇ sʜᴇ ɪs ᴀ ᴅᴇᴠɪʟ ʜᴜɴᴛᴇʀ.
 
-CREDIT:-
-• [MAKIMA](https://t.me/Makima_UltraXBot) **THANKS FOR INSPIRATION❤️**
-• [Makima ROBOT](https://t.me/FallenXRobot) thanks for the base repo
+❂ ᴡᴇ ᴍᴀᴅᴇ ᴛʜɪs ᴍᴀᴋɪᴍᴀ  ʙᴇᴄᴀᴜsᴇ ᴀʟʀᴇᴀᴅʏ ᴀ ᴍᴀᴋɪᴍᴀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ɪs ᴀʟʀᴇᴀᴅʏ ᴘᴏᴘᴜʟᴀʀ ᴀɴᴅ sʜᴇ ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴛʜᴏᴜɢʜ ʜᴇʀ ʀᴇᴘᴏ ɪs ɴᴏᴛ ᴘᴜʙʟɪᴄ sᴏ ᴀɴʏᴏɴᴇ ᴄᴀɴ'ᴛ ᴍᴀᴋᴇ ᴏᴡɴ ᴍᴀᴋɪᴍᴀ ᴀɴᴅ ᴅᴇᴘʟᴏʏ ɪᴛ.
 
+❂ Sᴏ ᴡᴇ ᴛʜᴏᴜɢʜᴛ ʟᴇᴛs ɢɪᴠᴇ ɪᴛ ᴀ ᴛʀʏ ᴀɴᴅ ᴍᴀᴋᴇ ᴏᴡɴ ᴍᴀᴋɪᴍᴀ ᴀɴᴅ ᴡᴇ ᴋɴᴏᴡ ᴛʜᴀᴛ ᴡᴇ ɴᴏᴛ sᴜᴄᴄᴇssғᴜʟʟ ɪɴ ᴄᴏᴘʏɪɴɢ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ ɢᴏᴅᴅᴇss  ᴍᴀᴋɪᴍᴀ ʙᴜᴛ ᴡᴇ ᴀᴛʟᴇᴀsᴛ ɢɪᴠᴇ ɪᴛ ᴀ ᴛʀʏ
+ᴀɴᴅ ɴᴏᴡ ᴍᴀᴋɪᴍᴀ ʀᴇᴘᴏ ɪs ɴᴏᴡ ᴘᴜʙʟɪᴄ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴍᴀᴋɪᴍᴀ.
+
+⚠️ ɴᴏᴛᴇ :- 2.0 ɪs ɪɴ ᴘʀᴏᴄᴇss ᴡᴇ ᴡɪʟʟ ʀᴇʟᴇᴀsᴇ ɪᴛ sᴏᴏɴ ʙᴜᴛ ᴍᴀᴋɪᴍᴀ 2.0 ʀᴇᴘᴏ ᴡɪʟʟ ʙᴇ ᴘʀɪᴠᴀᴛᴇ sᴏ ɪғ ᴡᴀɴᴛ ᴛᴏ ʙᴜʏ ᴛʜᴀᴛ ʀᴇᴘᴏ ᴛʜᴀɴ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ.
 """
+
 
         update.effective_message.reply_photo(
             PHOTO,
@@ -37,17 +34,13 @@ CREDIT:-
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
+                    
                     [
                         InlineKeyboardButton(
-                            text="Oᴛᴀᴋᴜ • ʙɪɴɢᴇ 𝙉𝙚𝙩𝙬𝙤𝙧𝙠", url="https://t.me/Otaku_Binge"
-                        )
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="Main chat group ♦️", url="https://t.me/anichatbakwas"
+                            text="ᴍᴀᴋɪᴍᴀ ʀᴇᴘᴏ", url="https://github.com/otakubinge/Makima-Robot"
                         ),
                         InlineKeyboardButton(
-                            text="support 🥂", url="https://t.me/kakashi_bots_support"
+                            text="ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/SIXTH_H0KAGE"
                         ),
                     ],
                 ]
@@ -57,9 +50,4 @@ CREDIT:-
     ABOUT_handler = CommandHandler(("about", "source", "repo"), ABOUT)
     dispatcher.add_handler(ABOUT_handler)
 
-    __help__ = """
-    ──「MAKIMA INFO & HISTORY」──                         
     
-    ❂ /about / /source / /repo: Get information about makima"""
-
-    __mod_name__ = "ABOUT"
