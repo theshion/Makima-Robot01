@@ -1,3 +1,8 @@
+# ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+# sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+# ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+# ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import flag
 from countryinfo import CountryInfo
 
@@ -112,7 +117,7 @@ async def msg(event):
 __help__ = """
 I will give information about a country
 
- ❍ /country <country name>*:* Gathering info about given country
+ ❂ /country <country name>*:* Gathering info about given country
 """
 
-__mod_name__ = "Cᴏᴜɴᴛʀʏ"
+__mod_name__ = "Country🇮🇳"
