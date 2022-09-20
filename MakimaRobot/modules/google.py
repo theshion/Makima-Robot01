@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import glob
 import io
 import os
@@ -269,9 +274,9 @@ async def apk(e):
 __mod_name__ = "Gᴏᴏɢʟᴇ🔎"
 
 __help__ = """
- ❍ /google <text>*:* Perform a google search
- ❍ /img <text>*:* Search Google for images and returns them\nFor greater no. of results specify lim, For eg: `/img hello lim=10`
- ❍ /app <appname>*:* Searches for an app in Play Store and returns its details.
- ❍ /reverse |pp |grs: Does a reverse image search of the media which it was replied to.
+ ❂ /google <text>*:* Perform a google search
+ ❂ /img <text>*:* Search Google for images and returns them\nFor greater no. of results specify lim, For eg: `/img hello lim=10`
+ ❂ /app <appname>*:* Searches for an app in Play Store and returns its details.
+ ❂ /reverse |pp |grs: Does a reverse image search of the media which it was replied to.
 
 """
