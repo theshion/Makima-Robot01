@@ -1,3 +1,8 @@
+#ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ɪɴ ᴀɴʏ ᴇʀʀᴏʀs ᴛʜᴀɴ ᴘʟᴢ ᴄᴏɴᴛᴀᴄᴛ @SIXTH_H0KAGE
+#sᴜᴘᴘᴏʀᴛ :- @kakashi_bots_support
+#ᴜᴘᴅᴀᴛᴇs :- @kakashi_bots_updates
+#ɴᴇᴛᴡᴏʀᴋ :- @Otaku_Binge
+
 import collections
 import importlib
 
@@ -184,4 +189,4 @@ dispatcher.add_handler(LOAD_HANDLER)
 dispatcher.add_handler(UNLOAD_HANDLER)
 dispatcher.add_handler(LISTMODULES_HANDLER)
 
-__mod_name__ = "Modules"
+__mod_name__ = "Modules😺"
