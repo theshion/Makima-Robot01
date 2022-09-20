@@ -114,9 +114,5 @@ Oᴛᴀᴋᴜ • ʙɪɴɢᴇ 𝙞𝙨 𝙖𝙣 𝙖𝙣𝙞𝙢𝙚 𝙗𝙖�
     SEX_handler = CommandHandler(("sex"), SEX)
     dispatcher.add_handler(SEX_handler)
 
-    __help__ = """
-    ──「Oᴛᴀᴋᴜ • ʙɪɴɢᴇ 𝘕𝘌𝘛𝘞𝘖𝘙𝘒」──                         
-    
-    ❂ /binge / /net / /otakubinge: Get information about our community! Using it in groups may create promotion so we don't support using it in groups."""
 
-    __mod_name__ = "Oᴛᴀᴋᴜ • ʙɪɴɢᴇ"
+    
