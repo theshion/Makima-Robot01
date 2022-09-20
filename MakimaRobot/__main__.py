@@ -114,7 +114,7 @@ buttons2 = [
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ 𝘼𝙙𝙙 𝙈𝙖𝙠𝙞𝙢𝙖 𝙏𝙤 𝙈𝙖𝙣𝙖𝙜𝙚 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ➕",
+            text="➕ 𝘼𝙙𝙙 {BOT_NAME} 𝙏𝙤 𝙈𝙖𝙣𝙖𝙜𝙚 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
