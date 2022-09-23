@@ -1,4 +1,4 @@
-# Makima
+# Makima Robot
 ![Makima](https://telegra.ph/file/073b97d2685d370a364da.jpg)
 # Makima
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/729d680436084e0a9cb16f0e875dc097)](https://www.codacy.com/gh/otakubinge/Makima-Robot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=otakubinge/Makima-Robot&amp;utm_campaign=Badge_Grade_Settings)[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/otakubinge/Makima-Robot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/kakashi_bots_updates)
