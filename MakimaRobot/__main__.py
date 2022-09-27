@@ -404,8 +404,6 @@ def help_button(update, context):
         pass
 
 
-
-    
 @run_async
 def get_help(update: Update, context: CallbackContext):
     chat = update.effective_chat  # type: Optional[Chat]
