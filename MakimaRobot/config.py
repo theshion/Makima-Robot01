@@ -15,17 +15,17 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = ""
-    API_HASH = ""
-    TOKEN = ""
-    OWNER_ID = ""
-    OWNER_USERNAME = ""
-    SUPPORT_CHAT = ""
-    JOIN_LOGGER = ()
-    EVENT_LOGS = ()
+    API_ID = "1480988"
+    API_HASH = "be76b2fd25b50222b0e1eee141d6a259"
+    TOKEN = "5605728947:AAHGZRsBITZF6LY8L4_08pGwvdcMkKpXrCE"
+    OWNER_ID = "5544822530"
+    OWNER_USERNAME = "FULLY_CRUAL_MIND"
+    SUPPORT_CHAT = "KanimangalamKovilakam"
+    JOIN_LOGGER = (-1001767332965)
+    EVENT_LOGS = (-1001767332965)
 
     SQLALCHEMY_DATABASE_URI = ""
-    MONGO_DB_URI = ""
+    MONGO_DB_URI = "mongodb+srv://Stenzlemaria:Stenzlemaria@cluster0.0ob4dvz.mongodb.net/?retryWrites=true&w=majority"
     LOAD = []
     NO_LOAD = ["rss"]
     WEBHOOK = False
